@@ -39,7 +39,7 @@ module.exports = {
     "https://www.linkedin.com/in/alexander-infante/",
     "https://www.linkedin.com/in/alon-ofengart/",
     "https://www.linkedin.com/in/umius-brian/",
-    // "https://www.linkedin.com/brianna-sookhoo/", // Broken link
+    "https://www.linkedin.com/in/brianna-sookhoo/", 
     "https://www.linkedin.com/in/caryLchan/",
     "https://www.linkedin.com/in/cheriezhong/",
     "https://www.linkedin.com/in/christianbegor/",
