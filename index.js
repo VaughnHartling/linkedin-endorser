@@ -12,7 +12,7 @@ const visitPage = async (page, link) => {
     'button.pv-s-profile-actions--connect[disabled]'
   );
   if (connectButton !== null) {
-    if(!connectWithUsers) return;
+    if (!connectWithUsers) return;
     if (pendingButton !== null) {
       return;
     } else {
