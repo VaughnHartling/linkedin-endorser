@@ -5,6 +5,7 @@ module.exports = {
   openBrowser: false,
   // Add users to endorse
   userList: [
+    // 34
     "https://www.linkedin.com/in/corneliusphanthanh/",
     "https://www.linkedin.com/in/lindawishingrad/",
     "https://www.linkedin.com/in/rachel-yoo/",
@@ -33,6 +34,7 @@ module.exports = {
     "https://www.linkedin.com/in/parvana-aliyeva/",
     "https://www.linkedin.com/in/saejinkang1004/",
     "https://www.linkedin.com/in/sae-min-baik",
+    // 35
     "https://www.linkedin.com/in/alanlee12/",
     "https://www.linkedin.com/in/alexander-infante/",
     "https://www.linkedin.com/in/alon-ofengart/",
@@ -52,6 +54,7 @@ module.exports = {
     "https://www.linkedin.com/in/tristenwastell/",
     "https://www.linkedin.com/in/sieunj/",
     "https://www.linkedin.com/in/vaughn-hartling-3083a4133/",
+    // 36
     "https://www.linkedin.com/in/edwinmenendez/",
     "https://linkedin.com/in/cpereztoro/",
     "https://www.linkedin.com/in/nathanaelwamwenze/",
@@ -75,6 +78,7 @@ module.exports = {
     "https://www.linkedin.com/in/todd-buckner/",
     "https://www.linkedin.com/in/sean-smith17",
     "https://www.linkedin.com/in/gregpanciera/",
+    // 37
     "https://www.linkedin.com/in/hienqn/",
     "https://www.linkedin.com/in/migueljmiller/",
     "https://www.linkedin.com/in/kevin-fey",
